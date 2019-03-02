@@ -1,0 +1,19 @@
+{
+  "name": "ase-thesis-learn",
+  "version": "1.0.0",
+  "description": "The actual \"meat\" of the engine will be developed kind of separate from the other parts of the app, which are mostly already set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepadawan93/ase-thesis-learn.git"
+  },
+  "author": "erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepadawan93/ase-thesis-learn/issues"
+  },
+  "homepage": "https://github.com/codepadawan93/ase-thesis-learn#readme"
+}
